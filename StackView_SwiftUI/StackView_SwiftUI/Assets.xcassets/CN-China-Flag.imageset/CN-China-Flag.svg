@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="100" height="70">
+
+<g transform="matrix(3.3333335 0 0 3.3333335 -0 1.6666667)">
+    <path d="M0 0L30 0L30 20L0 20z" stroke="none" fill="#DE2910" fill-rule="nonzero" />
+    <path transform="matrix(3 0 0 3 5 5)"  d="M0 -1L0.587785 0.809017L-0.951057 -0.309017L0.951057 -0.309017L-0.587785 0.809017L0 -1z" stroke="none" fill="#FFDE00" fill-rule="nonzero" />
+    <path transform="matrix(0.9202575 0.39131328 -0.39131328 0.9202575 10 2)"  d="M0 -1L0.587785 0.809017L-0.951057 -0.309017L0.951057 -0.309017L-0.587785 0.809017L0 -1z" stroke="none" fill="#FFDE00" fill-rule="nonzero" />
+    <path transform="matrix(0.69628996 0.71776056 -0.71776056 0.69628996 12 4)"  d="M0 -1L0.587785 0.809017L-0.951057 -0.309017L0.951057 -0.309017L-0.587785 0.809017L0 -1z" stroke="none" fill="#FFDE00" fill-rule="nonzero" />
+    <path transform="matrix(0.34291556 0.93936616 -0.93936616 0.34291556 12 7)"  d="M0 -1L0.587785 0.809017L-0.951057 -0.309017L0.951057 -0.309017L-0.587785 0.809017L0 -1z" stroke="none" fill="#FFDE00" fill-rule="nonzero" />
+    <path transform="matrix(0.9356917 0.35281852 -0.35281852 0.9356917 10 9)"  d="M0 -1L0.587785 0.809017L-0.951057 -0.309017L0.951057 -0.309017L-0.587785 0.809017L0 -1z" stroke="none" fill="#FFDE00" fill-rule="nonzero" />
+</g>
+</svg>

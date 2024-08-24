@@ -1,0 +1,114 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="100" height="70">
+
+<g transform="matrix(3.7037036 0 0 3.7037036 18.51852 20.185184)">
+    <path d="M-5 -5L22 -5L22 13L-5 13z" stroke="none" fill="#FFFFFF" fill-rule="nonzero" />
+	<g>
+        <path d="M5 -3L22 -3L22 -1L5 -1z" stroke="none" fill="#0038A8" fill-rule="nonzero" />
+        <path d="M5 1L22 1L22 3L5 3z" stroke="none" fill="#0038A8" fill-rule="nonzero" />
+        <path d="M-5 5L22 5L22 7L-5 7z" stroke="none" fill="#0038A8" fill-rule="nonzero" />
+        <path d="M-5 9L22 9L22 11L-5 11z" stroke="none" fill="#0038A8" fill-rule="nonzero" />
+	</g>
+	<g transform="matrix(0.11 0 0 0.11 0 0)">
+		<g transform="matrix(-1 1.5099579E-07 -1.5099579E-07 -1 0 0)">
+			<g transform="matrix(7.5497894E-08 0.99999994 -0.99999994 7.5497894E-08 0 0)">
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+			</g>
+			<g transform="matrix(7.5497894E-08 0.99999994 -0.99999994 7.5497894E-08 0 0)">
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+			</g>
+		</g>
+		<g transform="matrix(-1 1.5099579E-07 -1.5099579E-07 -1 0 0)">
+			<g transform="matrix(7.5497894E-08 0.99999994 -0.99999994 7.5497894E-08 0 0)">
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+			</g>
+			<g transform="matrix(7.5497894E-08 0.99999994 -0.99999994 7.5497894E-08 0 0)">
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+				<g transform="matrix(0.70710677 0.7071067 -0.7071067 0.70710677 0 0)">
+					<g transform="matrix(0.9238795 0.3826834 -0.3826834 0.9238795 0 0)">
+                        <path d="M1.5 9L6 12C -2 25 7 27 0 33C 3 26 -3 28 -3 16" stroke="#7B3F00" stroke-width="0.6" stroke-linecap="round" fill="#FCD116" fill-rule="nonzero" />
+                        <path transform="matrix(0.25197 -0.10437 0.10437 0.25197 -59.389 -24.6)"  d="M159.12 199.26L151.8524 204.3049L152.17467 204.49826C 139.76866 224.94626 137.66068 240.67126 135.85066 252.83426C 134.94572 258.91565 134.12807 264.13025 132.05186 268.59427C 130.71036 271.47845 128.80786 274.01648 126.08707 276.19586C 149.06207 265.26086 127.88277 246.32886 170.15506 215.73686L170.15506 215.73686L159.12 199.26z" stroke="#7B3F00" stroke-width="1" stroke-linecap="round" fill="#7B3F00" fill-rule="nonzero" />
+                        <path d="M0 11C -2 24 4.5 28 0 33" stroke="#7B3F00" stroke-width="0.6" fill="none" />
+					</g>
+                    <path d="M0 0L-6 0L0 33L6 0L0 0L0 33" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+                    <path d="M0 0L5.9999 9.0909E-05L-0.0001001358 9.0909E-05L-0.0001001358 33.00009L6 9.1552734E-05" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+				</g>
+			</g>
+		</g>
+        <path d="M11 0C 11 3.0375662 9.926058 5.630291 7.7781744 7.7781744C 5.630291 9.926058 3.0375662 11 0 11C -3.0375662 11 -5.630291 9.926058 -7.7781744 7.7781744C -9.926058 5.630291 -11 3.0375662 -11 0C -11 -3.0375662 -9.926058 -5.630291 -7.7781744 -7.7781744C -5.630291 -9.926058 -3.0375662 -11 0 -11C 3.0375662 -11 5.630291 -9.926058 7.7781744 -7.7781744C 9.926058 -5.630291 11 -3.0375662 11 0C 11 0.12800382 10.9977665 0.25596863 10.9932995 0.38389444" stroke="#7B3F00" stroke-width="0.6" fill="#FCD116" fill-rule="nonzero" />
+	</g>
+	<g transform="matrix(0.011 0 0 0.011 0 0)">
+		<g transform="matrix(-1 -0 0 1 0 0)">
+            <path d="M81 -44C 74 -36 70 -50 45 -50C 20 -50 16 -35 12 -38C 8 -41 33 -59 41 -60C 49 -61 72 -53 81 -44M52 -35C 59 -29 53 -16 46 -16C 39 -16 26 -28 32 -36" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+            <path d="M19 -26C 20 -38 30 -40 46 -40C 62 -40 69 -28 75 -25C 68 -25 62 -35 46 -35C 30 -35 30 -35 19 -25M22 -23C 26 -29 31 -17 42 -17C 53 -17 59 -20 66 -25C 73 -30 56 -13 45 -13C 34 -13 19 -19 22 -23" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+            <path d="M56 -17C 69 -24 61 -34 56 -36C 58 -34 66 -24 56 -17M0 43C 6 43 8 41 16 41C 24 41 43 52 54 48C 31 57 40 51 0 51L0 51L-5 51zM58 57C 54 50 55 52 47 41C 55 47 57 50 58 57M0 67C 25 67 21 62 54 48C 30 51 25 59 0 59L0 59L-5 59zM0 30C 7 30 9 25 17 25C 25 25 36 28 41 32C 42 33 38 24 30 23C 22 22 25 9 16 7C 16 11 19 10 20 16C 20 21 11 21 9 16C 11 24 5 24 0 24" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+		</g>
+		<g transform="matrix(-1 -0 0 1 0 0)">
+            <path d="M81 -44C 74 -36 70 -50 45 -50C 20 -50 16 -35 12 -38C 8 -41 33 -59 41 -60C 49 -61 72 -53 81 -44M52 -35C 59 -29 53 -16 46 -16C 39 -16 26 -28 32 -36" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+            <path d="M19 -26C 20 -38 30 -40 46 -40C 62 -40 69 -28 75 -25C 68 -25 62 -35 46 -35C 30 -35 30 -35 19 -25M22 -23C 26 -29 31 -17 42 -17C 53 -17 59 -20 66 -25C 73 -30 56 -13 45 -13C 34 -13 19 -19 22 -23" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+            <path d="M56 -17C 69 -24 61 -34 56 -36C 58 -34 66 -24 56 -17M0 43C 6 43 8 41 16 41C 24 41 43 52 54 48C 31 57 40 51 0 51L0 51L-5 51zM58 57C 54 50 55 52 47 41C 55 47 57 50 58 57M0 67C 25 67 21 62 54 48C 30 51 25 59 0 59L0 59L-5 59zM0 30C 7 30 9 25 17 25C 25 25 36 28 41 32C 42 33 38 24 30 23C 22 22 25 9 16 7C 16 11 19 10 20 16C 20 21 11 21 9 16C 11 24 5 24 0 24" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+		</g>
+        <path d="M0 76C -5 76 -18 79 0 79C 18 79 5 76 0 76" stroke="none" fill="#7B3F00" fill-rule="nonzero" />
+	</g>
+</g>
+</svg>
