@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="AlertController" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6yz-B4-nD0">
+                                <rect key="frame" x="0.0" y="59" width="393" height="734"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Alert"/>
+                                <connections>
+                                    <action selector="alertButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Pxk-U8-FWd"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lw4-lF-joc">
+                                <rect key="frame" x="146" y="783" width="101" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="DialogBox"/>
+                                <connections>
+                                    <action selector="dialogBoxButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9BI-FW-i8n"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" ambiguous="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dl4-Um-LoX">
+                                <rect key="frame" x="0.0" y="229" width="393" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Button"/>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="lw4-lF-joc" firstAttribute="top" secondItem="dl4-Um-LoX" secondAttribute="bottom" id="0W9-9D-ew5"/>
+                            <constraint firstItem="dl4-Um-LoX" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="3ml-7g-FZE"/>
+                            <constraint firstItem="6yz-B4-nD0" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="4PG-MS-aJy"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="dl4-Um-LoX" secondAttribute="trailing" id="C4C-so-I64"/>
+                            <constraint firstItem="lw4-lF-joc" firstAttribute="top" secondItem="dl4-Um-LoX" secondAttribute="bottom" id="DGl-LV-0Qz"/>
+                            <constraint firstItem="dl4-Um-LoX" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="FNU-a7-O41"/>
+                            <constraint firstItem="6yz-B4-nD0" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="GN0-pr-dGK"/>
+                            <constraint firstItem="dl4-Um-LoX" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="Nhy-pV-xaN"/>
+                            <constraint firstItem="6yz-B4-nD0" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="OFD-3n-Wz0"/>
+                            <constraint firstItem="6yz-B4-nD0" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="nNY-nL-jiz"/>
+                            <constraint firstItem="dl4-Um-LoX" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="neH-mH-aWk"/>
+                            <constraint firstItem="dl4-Um-LoX" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="nxA-oQ-Dp3"/>
+                            <constraint firstItem="lw4-lF-joc" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="rlP-E1-QON"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="lw4-lF-joc" secondAttribute="bottom" id="zTT-YL-xL5"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="132" y="-27"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
